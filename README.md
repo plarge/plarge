@@ -14,8 +14,8 @@ Since more than twenty years, I have been working with large industrial groups, 
 
 #### *I share technical stuffs*
 
-I created the organization **_[As a coding stone](https://github.com/AsCodingStone)_** to share my experience.
-I will try to add somme new stuffs regularly.
+I created the **_[As a coding stone](https://github.com/AsCodingStone)_** organization to share my experience.
+I will try to add some new stuffs regularly.
 
 You can contribute to this.
 
