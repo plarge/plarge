@@ -3,9 +3,9 @@
 I'm French and I work in Swizterland as an IT consultant.  
 Since more than twenty years, I have been working with large industrial groups, banks and luxury.
 
-- 🔭 I'm specialized in **.NET development**. I work on both desktop and web API projects.
-- 🤝 I'm also a coach in agile methods.
-- 🌱 I enjoy discovering new technical solutions.
+- 🔭 Specialized in **.NET development**, I work on both desktop and web API projects.
+- 🤝 I'm also coaching Teams in agile methods.
+- 🌱 I enjoy discovering new practices.
 
 <!--
 - 💬 You can ask me your questions in French or in English.
