@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Pierre Large
 
-I'm French, and I work in Swizterland as an IT consultant.  
+I'm French and I work in Swizterland as an IT consultant.  
 Since more than twenty years, I have been working with large industrial groups, banks and luxury.
 
 - 🔭 I'm specialized in **.NET development**. I work on both desktop and web API projects.
@@ -8,8 +8,8 @@ Since more than twenty years, I have been working with large industrial groups, 
 - 🌱 I enjoy discovering new technical solutions.
 
 <!--
-💬 Ask me your technical questions or not, in French or in English.
-📫 How to reach me: ...
+- 💬 You can ask me your questions in French or in English.
+- 📫 How to reach me: ...
 -->
 
 #### *I share technical stuffs*
