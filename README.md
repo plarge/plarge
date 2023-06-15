@@ -19,7 +19,7 @@ I will try to add some new stuffs regularly.
 
 You can contribute to this.
 
-#### * I share my gists*
+#### *I share my gists*
 
 My gists are available [here](https://gist.github.com/plarge).
 
